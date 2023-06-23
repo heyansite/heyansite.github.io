@@ -1,9 +1,9 @@
-How to reset the git user and password ?
+## How to reset the git user and password ?
 
 
 
 
-git config --global user.name "xxxx"
+git config --global user.name "xxxx" <br>
 git config --global user.email "xxxx@gmail.com"
 
 git push
